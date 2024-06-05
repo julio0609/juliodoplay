@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 💙💙
 Meu nome é julio torelli
 
-Estou estudando na ![Alura](https://cursos.alura.com.br)
+Estou estudando na!![Alura](lhttps://cursos.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
   
